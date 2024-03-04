@@ -8,7 +8,7 @@ const getAllPharmacies = async (req, res) => {
 };
 
 const getAllDrugs = async (req, res) => {
-    const result = await drugsService.listContacts();
+    const result = await drugsService.listDrugs();
 
     res.json(result);
 };
