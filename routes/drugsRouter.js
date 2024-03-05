@@ -7,4 +7,7 @@ drugsRouter.get("/pharmacies", controllersDrugs.getAllPharmacies);
 
 drugsRouter.get("/", controllersDrugs.getAllDrugs);
 
+drugsRouter.post("/order-data", controllersDrugs.createOrdData);
+
+
 export default drugsRouter;
