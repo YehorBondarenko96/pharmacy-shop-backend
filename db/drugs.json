@@ -2,6 +2,7 @@
     {
         "id": "AeHIrLTr6JkxGE6SN-0Rw",
         "name": "Paracetamol",
+        "quantity": "1",
         "price": "27,94",
         "dataWasAdded": "28.03.2018",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczP6CFAUgAKSTfUBrg6bLC33CK9Ygt6KPXx5K2RfZyU2NY0WdLkEyYP3F91rAckGiDpHFeF6TQLj-AY_D5vXke6Zr_STt5Ng02pyxG9zlowQFgIeKWXUIeAtdvbdmDbztLZ6dGbg0yD0hap5RxE6tF9zEA=w1380-h1380-s-no-gm?authuser=0"
@@ -9,6 +10,7 @@
     {
         "id": "qdggE76Jtbfd9eWJHrssH",
         "name": "Aspirin",
+        "quantity": "1",
         "price": "57,03",
         "dataWasAdded": "21.01.2024",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczPkWdXa2s15IWjBZC4MQC9lmKYYaPYBm-VpPu9xff4kGAu7LxYv7nt7Dme0pM9rsZ5JXFSeS0-j9cXDNrXVBlGjRcfKOX24o1D7qPpZNvBFdNEFUjpV6lTI5ZLZ-tcuCxvCXcJh6EOgTi7AcuUHeEzRAA=w1000-h1000-s-no-gm?authuser=0"
@@ -16,6 +18,7 @@
     {
         "id": "drsAJ4SHPYqZeG-83QTVW",
         "name": "Ibuprofen",
+        "quantity": "1",
         "price": "39,84",
         "dataWasAdded": "03.05.2023",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczOSZsspUJIXDQnJRiim62OfAIaDPwCC1cF4_ijrYdCH7tiEDZUtHjZfTakjkqm88tz2zlstQfh0WwNPxxyZDWD7dCYOVr2YSEyTBKymc8ZqCtsW8PGVHTw1IW4po2-lz34WJHGthLLlFxHrNFEr9xf-mA=w1380-h1380-s-no-gm?authuser=0"
@@ -23,6 +26,7 @@
     {
         "id": "05olLMgyVQdWRwgKfg5J6",
         "name": "Celecoxib",
+        "quantity": "1",
         "price": "92,95",
         "dataWasAdded": "06.08.2021",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczNm69U922Q3a86-nuMbN9eXT8yf1DTyOytObzMnimKmYEWONTF66I3ECwpgAISTBaP-HR4oE-XCeAF52SQPRFejcMpK7ZjWGohh7zB3RmO5J2X3M673QHZlGb3SmJpaV98A83t5MXVY1OWzauxw-ASATw=w986-h1006-s-no-gm?authuser=0"
@@ -30,6 +34,7 @@
     {
         "id": "1DEXoP8AuCGYc1YgoQ6hw",
         "name": "Nabumetone",
+        "quantity": "1",
         "price": "204,29",
         "dataWasAdded": "18.08.2022",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczO045kN3Mb4QNbnGtxDGtc36ILWkTyv7Qsz2x8dm5iDKR-P0HPEv2UuUv27v9DRwnUzzT_knYVtViDksbQ4GFZcG_HGddwWzmVo-lYIuFOZnAjW5Y3jakk0STB_LaXqvkLxbih1BnUE7zIAx0L-1kdNSw=w403-h312-s-no-gm?authuser=0"
@@ -37,6 +42,7 @@
     {
         "id": "Z5sbDlS7pCzNsnAHLtDJd",
         "name": "Dexibuprofen",
+        "quantity": "1",
         "price": "95,20",
         "dataWasAdded": "19.04.2023",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczONpgD7-0fpu6mdK8qQy4kI8kNLylRdGDCrKwY2ndiJbMdGRZf_wNZ5ckC67qT__MMDnhIDLcCyyVLdfNnvFbwOsyPpXtN_YXkbgELpFGSmVshrs9jExyq7ypNRPQP5S7Y1o_2S4u2gPbDG5r5ipqvgYg=w500-h500-s-no-gm?authuser=0"
@@ -44,6 +50,7 @@
     {
         "id": "C9sjBfCo4UJCWjzBnOtxl",
         "name": "Etoricoxib",
+        "quantity": "1",
         "price": "205,57",
         "dataWasAdded": "28.11.2023",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczOkljvdMDSDDYJ-2THQzPI0a07OqW8LRliznBlt0xm952GRNBHkv6o9rTHr94cDGMcUhHYtlRImEJxJDGzPgGkHIUOtdLA26nuG_KeadBbTFJYInYayIogU6LYdxtNyB2rV1OtBEyiQylM1tSXjO2lWBw=w2062-h1380-s-no-gm?authuser=0"
@@ -51,6 +58,7 @@
     {
         "id": "rsKkOQUi80UsgVPCcLZZW",
         "name": "Lornoxicam",
+        "quantity": "1",
         "price": "205,28",
         "dataWasAdded": "01.01.2024",
         "image": "https://lh3.googleusercontent.com/pw/AP1GczOJpkdiFCpwo-KF5h92C72Ll8DgkgIo5_f9LGzOVWXEU1AM9_CnDMrtl7kfH0qdnwTgsDg5wOdj8SBGhU7oBQovRuPxADw5c0ApXam5MamI_iMnd4A8XBbC_jVOpoIuFsXy4MonweGUe1Ptt_WeUMoKGA=w1024-h1024-s-no-gm?authuser=0"
